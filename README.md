@@ -4,7 +4,7 @@ env-xmonad-utils
 Xmonad utils
     
 * xspotify - Spotify controller using D-Bus.
-    (D-Bus should be available by default as it is a dependency of systemd).
+(D-Bus should be available by default as it is a dependency of systemd).
       
         * play | next | prev | status* | now*
         
